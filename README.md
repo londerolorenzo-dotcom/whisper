@@ -158,3 +158,10 @@ Please use the [🙌 Show and tell](https://github.com/openai/whisper/discussion
 ## License
 
 Whisper's code and model weights are released under the MIT License. See [LICENSE](https://github.com/openai/whisper/blob/main/LICENSE) for further details.
+
+## Windows desktop app example (local transcription)
+
+If you want a simple desktop interface instead of command-line usage, see:
+
+- `apps/whisper_windows_app.py`
+- `docs/windows-whisper-app-ptbr.md` (Portuguese step-by-step for Windows users)
