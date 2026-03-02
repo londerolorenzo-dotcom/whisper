@@ -165,3 +165,7 @@ If you want a simple desktop interface instead of command-line usage, see:
 
 - `apps/whisper_windows_app.py`
 - `docs/windows-whisper-app-ptbr.md` (Portuguese step-by-step for Windows users)
+
+## App local em Windows (.exe)
+
+Se você quer um app clicável para transcrição local no Windows, veja o guia em `windows_exe_app/README.pt-BR.md`.
